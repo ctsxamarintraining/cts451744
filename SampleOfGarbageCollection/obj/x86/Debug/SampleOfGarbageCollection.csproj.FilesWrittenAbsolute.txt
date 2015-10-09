@@ -1,0 +1,5 @@
+/Users/janani/Projects/SampleOfGarbageCollection/SampleOfGarbageCollection/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/janani/Projects/SampleOfGarbageCollection/SampleOfGarbageCollection/bin/Debug/SampleOfGarbageCollection.exe.mdb
+/Users/janani/Projects/SampleOfGarbageCollection/SampleOfGarbageCollection/bin/Debug/SampleOfGarbageCollection.exe
+/Users/janani/Projects/SampleOfGarbageCollection/SampleOfGarbageCollection/obj/x86/Debug/SampleOfGarbageCollection.exe
+/Users/janani/Projects/SampleOfGarbageCollection/SampleOfGarbageCollection/obj/x86/Debug/SampleOfGarbageCollection.exe.mdb
